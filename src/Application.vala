@@ -1,3 +1,7 @@
+/*
+* SPDX-License-Identifier: GPL-3.0-or-later
+* SPDX-FileCopyrightText: 2024 Fabio Carneiro <fabioaacarneiro@gmailmail.com>
+*/
 
 public class MyApp : Gtk.Application {
     public MyApp() {
