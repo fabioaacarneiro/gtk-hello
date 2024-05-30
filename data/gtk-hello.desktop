@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+
+Name=Gtk-Hello
+Comment=Proves that we can use Vala and Gtk
+Categories=Development;Education;
+
+Icon=com.github.fabioaacaneiro.myapp
+Exec=com.github.fabioaacaneiro.myapp
+Terminal=false
